@@ -1,0 +1,13 @@
+.container_appointment{
+    display: inline-flex;
+    width: 100%;
+  }
+  .user-log{
+    margin: 100px auto;
+    background: #fff;
+    padding: 21px 25px;
+  }
+  .main_user_backgroung{
+    background: #33333352;
+  }
+  
